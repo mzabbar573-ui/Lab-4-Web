@@ -34,34 +34,40 @@ Membuat folder `lab4_layout` yang berisi file `home.html` dan `style.css`. Layou
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.1.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.2.png?raw=true)
 
-6. Membuat Navigasi
+5. Membuat Navigasi
 Mengatur menu navigasi menggunakan CSS, termasuk warna latar belakang, ukuran teks, dan efek hover pada menu.
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%20codingan%204.2.3.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20%20web%204.2.3.png?raw=true)
 
-8. Membuat Hero Panel
+6. Membuat Hero Panel
 Menambahkan bagian hero panel yang berisi judul, deskripsi, dan tombol Learn More.
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%20codingan%204.2.4.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.4.png?raw=true)
 
-10. Mengatur Main Content dan Sidebar
+7. Mengatur Main Content dan Sidebar
 Menggunakan CSS Float untuk mengatur posisi konten utama dan sidebar agar tampil berdampingan.
-![alt text](?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Mengatur%20Layout%20Main%20dan%20Sidebar.png?raw=true)
 
-11. Membuat Sidebar Widget
+8. Membuat Sidebar Widget
 Menambahkan widget berupa daftar tautan dan teks informasi pada bagian sidebar.
-![alt text](?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Membuat%20Sidebar%20Widget.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20%20web%20codingan%204.2.5.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.5.png?raw=true)
 
-13. Mengatur Footer
+9. Mengatur Footer
 Mengatur bagian footer menggunakan CSS, termasuk warna latar belakang, padding, dan properti `clear: both`.
-![alt text](?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/mengatur%20footer.png?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/footers.png?raw=true)
 
-14. Menambahkan Content
+10. Menambahkan Content
 Menambahkan beberapa kotak konten yang berisi gambar, judul, deskripsi, dan tombol View Detail.
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Menambahkan%20Main%20Content.png?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Menambahkan%20Main%20Conntent%20CSS.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.6.png?raw=true)
 
-15. Menambahkan Artikel
+11. Menambahkan Artikel
 Menambahkan artikel menggunakan tag `<article>`, gambar, judul, dan paragraf. Posisi gambar diatur menggunakan CSS Float.
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Menambahkan%20Artikel.png?raw=true)
+![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/Menambahkan%20Artikel%20CSS.png?raw=true)
 ![alt text](https://github.com/mzabbar573-ui/Lab-4-Web/blob/main/img%20pertemuan%204/pemrograman%20web%204.2.7.png?raw=true)
+
